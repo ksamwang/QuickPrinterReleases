@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "alpha",
+  "version": "2.1.2.2",
+  "mandatory": false,
+  "published_at": "2026-07-12T09:34:34.5286070Z",
+  "download_url": "https://ksamwang.github.io/QuickPrinterReleases/downloads/alpha/QuickPrinter-Alpha-2.1.2.2.zip",
+  "sha256": "d37f783c801084621b22f02fb515ded940ff44f86164a89a12d329c73dfdf8ea",
+  "size_bytes": 1089821
+}
