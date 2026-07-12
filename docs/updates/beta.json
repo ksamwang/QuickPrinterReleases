@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.2.0.4",
+  "version": "2.2.0.5",
   "mandatory": false,
-  "published_at": "2026-07-12T09:35:11.0611289Z",
-  "download_url": "https://ksamwang.github.io/QuickPrinterReleases/downloads/beta/QuickPrinter-Beta-2.2.0.4.zip",
-  "sha256": "5c5f9a507746e5d44fc7772ad35bab4b22c9a3b30d7018f30ce869a9053bc539",
-  "size_bytes": 1089880
+  "published_at": "2026-07-12T09:58:15.3684517Z",
+  "download_url": "https://ksamwang.github.io/QuickPrinterReleases/downloads/beta/QuickPrinter-Beta-2.2.0.5.zip",
+  "sha256": "cb0ae15fee27bd5d9afa432812cb2790499ac060fcf76263fef07ba5e400a221",
+  "size_bytes": 1114369
 }
