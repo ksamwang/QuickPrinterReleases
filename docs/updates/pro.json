@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "pro",
+  "version": "2.2.0.4",
+  "mandatory": false,
+  "published_at": "2026-07-12T09:33:09.0426593Z",
+  "download_url": "https://ksamwang.github.io/QuickPrinterReleases/downloads/pro/QuickPrinter-Pro-2.2.0.4.zip",
+  "sha256": "f7bb45abda654103b470ed284e5281e2cb4d8cd88d956273680e7c955d761dc4",
+  "size_bytes": 1241625
+}
